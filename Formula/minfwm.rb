@@ -1,9 +1,9 @@
 class Minfwm < Formula
   desc "Infinite 2D window canvas for macOS"
   homepage "https://github.com/snusxd/minfwm"
-  url "https://github.com/snusxd/minfwm/archive/refs/tags/v1.2.tar.gz"
-  version "1.2"
-  sha256 "577dd415457534c15cfff2567c30ed2e112ff034cd390e433b3ad287c0573891"
+  url "https://github.com/snusxd/minfwm/archive/refs/tags/v1.3.tar.gz"
+  version "1.3"
+  sha256 "e3e680d938806fe74d06e4385fcd6a2a57aa0fabebf77d1d2f1d5b395d415d9b"
   license :cannot_represent # Upstream has not published a license.
 
   livecheck do
